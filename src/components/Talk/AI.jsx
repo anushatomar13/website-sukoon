@@ -8,9 +8,11 @@ function AI() {
   Meet Sky!<br /><br />Sukoon's empathetic AI voice, blending digital intelligence with a caring tone for 24/7 support 💚
     
       </div>
+      <Link to='https://sky-by-sukoon.vercel.app/'>
       <div className='flex justify-center items-center pb-10 sm:pb-20 overflow-hidden'>
         <Blob />
       </div>
+        </Link>
     </div>
   );
 }
